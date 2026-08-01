@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0035-search-insert-position) |
 | [0130-surrounded-regions](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0130-surrounded-regions) |
 ## Binary Search
@@ -57,5 +58,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0151-reverse-words-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
