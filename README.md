@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0242-valid-anagram) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
