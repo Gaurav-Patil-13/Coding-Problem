@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0035-search-insert-position) |
 | [0130-surrounded-regions](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0130-surrounded-regions) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0035-search-insert-position) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0704-binary-search) |
 ## Stack
 |  |
