@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0130-surrounded-regions) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0704-binary-search) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -75,8 +76,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0242-valid-anagram) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Enumeration
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/3345-smallest-divisible-digit-product-i) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
