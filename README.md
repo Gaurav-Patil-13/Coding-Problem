@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0055-jump-game) |
 | [0130-surrounded-regions](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0130-surrounded-regions) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0704-binary-search) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0055-jump-game) |
 | [2029-stone-game-ix](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
