@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0055-jump-game) |
 | [0130-surrounded-regions](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0130-surrounded-regions) |
+| [0219-contains-duplicate-ii](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0219-contains-duplicate-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0704-binary-search) |
 | [2029-stone-game-ix](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/2029-stone-game-ix) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0242-valid-anagram) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0219-contains-duplicate-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Bit Manipulation
 |  |
