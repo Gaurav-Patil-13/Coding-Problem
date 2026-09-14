@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0367-valid-perfect-square) |
+| [0836-rectangle-overlap](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0836-rectangle-overlap) |
 | [2029-stone-game-ix](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/3536-maximum-product-of-two-digits) |
@@ -135,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0055-jump-game) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
