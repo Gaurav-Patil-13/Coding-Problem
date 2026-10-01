@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0145-binary-tree-postorder-traversal) |
 ## Tree
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0242-valid-anagram) |
 ## Trie
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0836-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
