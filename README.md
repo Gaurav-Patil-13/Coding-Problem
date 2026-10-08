@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0145-binary-tree-postorder-traversal) |
+| [1021-remove-outermost-parentheses](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/1021-remove-outermost-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0242-valid-anagram) |
+| [1021-remove-outermost-parentheses](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/1021-remove-outermost-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -146,4 +148,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
