@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0191-number-of-1-bits) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Greedy
 |  |
@@ -149,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/1021-remove-outermost-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
