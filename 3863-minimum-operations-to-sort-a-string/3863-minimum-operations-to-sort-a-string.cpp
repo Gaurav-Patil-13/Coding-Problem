@@ -23,13 +23,9 @@ public:
             if(s[i]==mn)cntmn = i;
             if(s[i]==mn||s[i]==mx) return 2 ;
         }
-     //   if(abs(cntmx-cntmn)<=n-1)return 2;
-
-
-
-
-
-         return 3;
+        // cout<<cntmx<<" "<<cntmn<<endl;
+        // if(abs(cntmx-cntmn)<n-1)return 2;      
+        return 3;
         // if(s[0]==mx && s[n-1]==mn)return 3;  
         
     }
