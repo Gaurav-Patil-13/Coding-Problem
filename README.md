@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0242-valid-anagram) |
 | [1021-remove-outermost-parentheses](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/1021-remove-outermost-parentheses) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Trie
 |  |
 | ------- |
