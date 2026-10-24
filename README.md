@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0367-valid-perfect-square) |
 | [0836-rectangle-overlap](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0836-rectangle-overlap) |
 | [2029-stone-game-ix](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/2029-stone-game-ix) |
+| [2409-count-days-spent-together](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0242-valid-anagram) |
 | [1021-remove-outermost-parentheses](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/1021-remove-outermost-parentheses) |
+| [2409-count-days-spent-together](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Trie
 |  |
