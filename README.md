@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0219-contains-duplicate-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0704-binary-search) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2029-stone-game-ix](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0704-binary-search) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Stack
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0242-valid-anagram) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3536-maximum-product-of-two-digits](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/3536-maximum-product-of-two-digits) |
 ## Breadth-First Search
 |  |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/0151-reverse-words-in-a-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Gaurav-Patil-13/Coding-Problem/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String
 |  |
 | ------- |
